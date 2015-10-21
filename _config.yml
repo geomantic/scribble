@@ -10,13 +10,13 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://geomantic.gitpages.io/
+    url:          http://muan.co
     external:     true
   - name:         Email
-    url:          mailto:geomantic@geomantic.io
+    url:          mailto:hello@muan.co
     external:     true
   - name:         GitHub
-    url:          http://github.com/geomantic
+    url:          http://github.com/muan
     external:     true
 highlighter:      pygments
 permalink:        pretty
